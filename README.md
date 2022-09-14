@@ -1,6 +1,11 @@
 # Hi! I'm Patrick
 I am a Software developer from Perth, Australia currently working at Keep Software as a Full-Stack Developer.
 
+My favourite things are:
+- Camping & hiking, going to the gym, and listening to music.
+- Deep Learning (I'm currently working on my thesis, applying the U-Net Image Segmentation architecture)
+- Web Development (Frontend & Backend)
+
 ✅ I have completed a Bachelor's of Science from University of WA.
 
 🔜 Currently completing my Master's of Professional Software Engineering at University of WA.
