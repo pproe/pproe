@@ -4,7 +4,7 @@ I am a Software developer from Perth, Australia currently working at Keep Softwa
 My favourite things are:
 - Camping & hiking, going to the gym, and listening to music.
 - Deep Learning (I'm currently working on my thesis, applying the U-Net Image Segmentation architecture)
-- Web Development (Frontend & Backend)
+- Web Development (Frontend & Backend using Node, Express & React, among others)
 
 ✅ I have completed a Bachelor's of Science from University of WA.
 
