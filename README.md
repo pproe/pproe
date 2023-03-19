@@ -79,8 +79,8 @@
 [line3_url]: https://skillicons.dev/icons?i=css,ts,html "CSS, Typescript, HTML"
 [line4_url]: https://skillicons.dev/icons?i=react,tensorflow,pytorch,py "ReactJS, Tensorflow, Pytorch, Python"
 
-[line5_url]: https://skillicons.dev/icons?i=arduino,mongodb,sqlite,wordpress,js,ps ""
-[line6_url]: https://skillicons.dev/icons?i=matlab,aws,postgres,raspberrypi,express,flask,latex ""
+[line5_url]: https://skillicons.dev/icons?i=arduino,mongodb,sqlite,wordpress,js,ps "Arduino, MongoDB, SQLite, Wordpress, Javascript, Photoshop"
+[line6_url]: https://skillicons.dev/icons?i=matlab,aws,postgres,raspberrypi,express,flask,latex "Matlab, Amazon Web Services, PostgreSQL, Raspberry Pi, Express, Flask, Latex"
 
-[line7_url]: https://skillicons.dev/icons?i=postman,selenium,c,docker,bootstrap,nginx,redux,jest,jquery ""
-[line8_url]: https://skillicons.dev/icons?i=linux,mysql,r,redis,bash,vim,dynamodb,figma,java,graphql ""
+[line7_url]: https://skillicons.dev/icons?i=postman,selenium,c,docker,bootstrap,nginx,redux,jest,jquery "Postman, Selenium, C, Docker, Bootstrap, Nginx, Redux, Jest, JQuery"
+[line8_url]: https://skillicons.dev/icons?i=linux,mysql,r,redis,bash,vim,dynamodb,figma,java,graphql "Linux, MySQL, R, Redis, Bash, Vim, DynamoDB, Figma, Java, GraphQL"
