@@ -1,6 +1,6 @@
 <div align="center">
 
-##### I use these <br /> on a daily basis:
+**I use these <br /> on a daily basis:**
 
 </div> 
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-##### I am well-versed in these:
+**I am well-versed in these:**
 
 </div>  
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-##### I have used these for past projects:
+**I have used these for past projects:**
 
 </div>  
   
@@ -66,8 +66,13 @@
 
 > *No? Well here they are anyway:*
 
-|<picture><source srcset="https://streak-stats.demolab.com?user=pproe&theme=github-dark-blue&hide_border=true&border_radius=0&background=00000000" media="(prefers-color-scheme: dark)" /><img src="https://streak-stats.demolab.com?user=pproe&theme=github-light&hide_border=true&border_radius=0&background=00000000" /></picture>|<picture><source srcset="https://github-readme-stats.vercel.app/api?username=pproe&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&card_width=495" media="(prefers-color-scheme: dark)" /><img src="https://github-readme-stats.vercel.app/api?username=pproe&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&card_width=495" /></picture>|
-|:--:|:--:|
+<div align="center">
+
+<picture><source srcset="https://streak-stats.demolab.com?user=pproe&theme=github-dark-blue&hide_border=true&border_radius=0&background=00000000" media="(prefers-color-scheme: dark)" /><img src="https://streak-stats.demolab.com?user=pproe&theme=github-light&hide_border=true&border_radius=0&background=00000000" /></picture>
+
+<picture><source srcset="https://github-readme-stats.vercel.app/api?username=pproe&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&card_width=495" media="(prefers-color-scheme: dark)" /><img src="https://github-readme-stats.vercel.app/api?username=pproe&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&card_width=495" /></picture>
+  
+</div>
 
 [line1_url]: https://skillicons.dev/icons?i=git "Git"
 [line2_url]: https://skillicons.dev/icons?i=github,vscode "Github, VSCode"
