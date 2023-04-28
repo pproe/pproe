@@ -57,7 +57,7 @@
 > *Please check out my 'Tech Pyramid' up above, where I rank my tech-stack top-to-bottom based on my self-perceived proficiency.*
 
 **Want some proof I know what I know?**
-> *Please check out my Public Repositories down below, where you can find some of projects. Unfortunately, I'm unable to share codebase for most of the projects I do due to (uni/work) privacy limitations, but I'd be more than happy to share with you the rough details if you'd like to reach out.*
+> *Please check out my Public Repositories down below, where you can find some of projects. Unfortunately, I'm unable to share the codebase for most of the projects I do due to (uni/work) privacy limitations, but I'd be more than happy to share with you the rough details if you'd like to reach out.*
 
 **Want to reach out?**
 > *Awesome! You can find my contact details and socials over on the left. Can't wait to hear from you!*
