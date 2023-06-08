@@ -44,7 +44,7 @@
 
 ### Hi! I'm Patrick
 
-*I am a Software Engineer from Perth, Australia currently working at Keep Software as a Full-Stack Developer. Currently finishing off my Master's degree in Software Engineering at University of Western Australia.*
+*I am a Software Engineer from Perth, Australia with a Master's degree in Software Engineering from University of Western Australia.*
 
 **Things I Like:**
 - Camping & hiking, going to the gym, and listening to music.
